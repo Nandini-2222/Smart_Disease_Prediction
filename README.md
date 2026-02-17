@@ -1,1 +1,2 @@
 # Smart_Disease_Prediction
+This project develops a machine learning-based system to predict diseases based on user-reported symptoms. By training classification models on structured medical data, it provides quick and preliminary health assessments through a user-friendly interface. The system demonstrates the practical application of machine learning in improving healthcare accessibility and supporting early diagnosis.
